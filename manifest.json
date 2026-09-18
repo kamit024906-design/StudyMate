@@ -1,10 +1,10 @@
 {
-  "name": "StudyMate",
+  "name": "StudyMate - Class 10 Study Planner",
   "short_name": "StudyMate",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f3f4f6",
   "theme_color": "#111827",
-  "description": "A simple Class 10 study companion",
-  "icons": []
+  "description": "StudyMate is a simple Class 10 study planner with tasks, progress tracking, notes and a study timer.",
+  "orientation": "portrait"
 }
